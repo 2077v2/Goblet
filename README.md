@@ -1,8 +1,8 @@
-### Collection Rev 58 Ver 4.82                          Collection Updated and working for Game version     
+### Collection Rev 58 Ver 4.82          Collection Updated and working for Game version     
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
-![img](https://i.imgur.com/EXuJbqt.png)Hey Prefects [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil) for **Hogwarts Legacy** have a good read through this description.
+![](https://s11.gifyu.com/images/Border.jpg)Hey Prefects [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil) for **Hogwarts Legacy** have a good read through this description.
 
 These are the best mods and are a must-have to immerse yourself into Hogwarts Legacy.
 
@@ -1066,3 +1066,4 @@ If you would like to support me so i can afford a new broom and wand click the b
 - Hogwarts Legacy brand and name is the registered trademark of its respective owner.  
 
 ![img](https://i.imgur.com/gF9VG11.png)
+
