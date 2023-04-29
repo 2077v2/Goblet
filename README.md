@@ -61,14 +61,18 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
-![img](https://i.imgur.com/r5ZtuJe.png)
+![img](https://i.imgur.com/r5ZtuJe.png)⛔[WARNINGS](https://)⛔
 
-- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal.  
-- **⛔ DO NOT** update any of the mods in this collection individually in **Vortex** when a mod updates we will update a full revision to keep everything up to date when you see a new revision update to it. Notes will be in the changelog.  
+- If you see this> ⛔ then you need to **READ** and follow the directions.
+- ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
+- **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
-## [Updating Collection](https://)  
+## [Updating Collection](https://)[   ](https://)
 
-- **⛔** Updating the collection is as easy as clicking the "Update" button. When prompted to "Remove mods from old revision" make sure to click the "Remove All" button.      
+- **⛔ DO NOT** update any of the mods in this collection individually in [Vortex ](https://)when a mod updates we will update a full revision to keep everything up to date. 
+- **⛔** Notes will be in the changelog **READ** them.
+- **⛔** Updating the collection is as easy as clicking the **"Update"** button on the collections tab in [Vortex.](https://)
+- **⛔** When prompted to **"Remove mods from old revision"** **MAKE SURE** to click the **"Remove All"** button. 
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -134,30 +138,34 @@ YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png
 
 ---
 
-## [Reshade](https://) *(OPTIONAL)* 
+## [Reshade](https://) 
 
-Reshade presets come with the collection they are located in the main Hogwarts Legacy directory
+ReShade comes with the collection once you have finished downloading it will be placed on the toolbar in the top left hand corner of Vortex.
 
-1) Download ReShade **with full add-on support** (second option) from [here﻿﻿](https://reshade.me/#download)
+![](https://s12.gifyu.com/images/Reshade.jpg)
 
-2) Once [Reshade](https://reshade.me/) has downloaded open the application select browse then select hogwarts legacy exe **(you can find the locations at the bottom of this description)** then click next.
+Click on Reshade in the top corner.
+2) Select browse and find the **"*Hogwarts Legacy.exe*"** and select it. **(Locations below)**
 
-3) Once you have found it in the game's files you then click dx10/11/12.
+```
+Steam> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy.exe
+GOG>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy.exe
+Epic>  Drive Letter\EpicLibrary\Hogwarts Legacy.exe  
+```
 
-4) Then you will have a selection of choices for effects to have in the game. Select these.
+3) Select Directx 10/11/12
+4) On the **"select preset to install"** select next
+5) Select next and finish the installation.
+6) Run the game
 
-- Standard Effects
-- QUINT by Marty Mcfly.
-- SWEET FX by CeeJayand. 
-- Legacy Standard Effects.   
+I have added these resahdes below.
 
-5) Once they are checked continue on and make sure all boxes are checked in the upcoming options. Then once that's done and you've installed it to the right exe folder, you can start the game and follow the on-screen instructions.
+- Goblet Reshadeby [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
-6) When installed and you are in-game, all you do is search for the file **(!!!Hogwarts Legacy Realism Overhaul 2023 Reshade)** this can be found in> the following folders select this preset and it will apply.
+### **Reshade controls**
 
-- Steam users> *Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy* 
-- GOG users>   *Drive Letter\GOGLibrary\Games\Hogwarts Legacy*
-- Epic users >  *Drive Letter\EpicLibrary\Hogwarts Legacy*  
+**End** key to toggle main effects
+**Home** key to open GUI
 
 ---
 
@@ -444,8 +452,6 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 ---
 
 ## [BLUEPRINT MODS](https://)
-
-
 
 > [UNIVERSAL SETTINGS MOD MENU](https://)  by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                   Mod menu that helps you manage any mod settings that is compatible with that menu.
 
