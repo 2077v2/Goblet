@@ -1,4 +1,4 @@
-### Collection Ver 4.81                          Collection Updated and working for Game version     
+### Collection Rev 58 Ver 4.82                          Collection Updated and working for Game version     
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -84,9 +84,11 @@ Click [HERE](https://youtu.be/_94nFCwEh4o)  to watch our tutorial video.
 
 2) You need to create a ***~mods*** folder if you don't already have one go to the following folder and create a folder named ***~mods***. when done should look as follows.
 
-- **Steam users>** *Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods*
-- **GOG users>** *Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Content\Paks\~mods*
-- **Epic users>**  *Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\\~mods*
+```
+Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods
+GOG users>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Content\Paks\~mods
+Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\\~mods
+```
 
 ---
 
@@ -102,6 +104,8 @@ Click [HERE](https://youtu.be/_94nFCwEh4o)  to watch our tutorial video.
 
 4) Open Vortex and click on **"Select a game to manage"**
 
+![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
+
 5) On the next screen scroll down to the **"Hogwarts Legacy"** icon and click on **"Manage"**
 
 6) On the popup that appears click on **"Download"** on the bottom right Vortex will restart.
@@ -109,6 +113,12 @@ Click [HERE](https://youtu.be/_94nFCwEh4o)  to watch our tutorial video.
 7) Once Vortex has restarted it may say **"Game not discovered"** if it does click **"Continue"** at the bottom right of the popup.
 
 8) A window will now pop up where you can choose the folder where **"Hogwarts Legacy"** is installed.
+
+```
+Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy
+GOG users>   Drive Letter\GOGLibrary\Games\Hogwarts Legacy
+Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
+```
 
 9 )On your main Vortex window, it will now show an icon for **"Hogwarts Legacy"** showing that it is a managed game in Vortex.
 
@@ -118,19 +128,44 @@ Click [HERE](https://youtu.be/_94nFCwEh4o)  to watch our tutorial video.
 
 ---
 
-## [YOU ARE READY TO INSTALL THE COLLECTION!!! ](https://)  
+## [INSTALLING THE COLLECTION](https://)
 
-1) Create new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
+11) Click on profiles now Create a new profile on Vortex ⛔(**DO NOT**) add the collection to your default profile.
 
-2) Click Add this collection to vortex (choose your newly created profile).
+![](https://s12.gifyu.com/images/Screenshot-2023-04-29-142858.png)
 
-3) Once the collection is installed in the top left-hand corner of Vortex select "Dashboard" now on the tools tab select "show toolbar" this will add these 3 tools to the top corner of Vortex for easy access.
+12) Click **"Add to Vortex"** **(choose your newly created profile)**.
+
+![](https://s12.gifyu.com/images/Untitled1.png)
+
+13) Once the collection is installed in the top left-hand corner of Vortex select "Dashboard" now on the tools tab select "show toolbar" this will add these 3 tools to the top corner of Vortex for easy access.
 ![img](https://i.imgur.com/gkJlMzN.png)
 
 - [Ascendio - Unofficial FPS Hotfix for PC by SEIFU](https://www.nexusmods.com/hogwartslegacy/users/77609528)  
 - [Hogwarts Mod Merger.](https://www.nexusmods.com/hogwartslegacy/mods/178)
 - [HLSE Hogwarts Legacy Save Game Editor.](https://www.nexusmods.com/hogwartslegacy/mods/77?tab=description)
 ![img](https://i.imgur.com/BxUHBGI.png)
+
+## [POPUPS](https://)
+
+14) These may popup in Vortex as you are downloading the collection.
+
+- When you see a pop-up titled **"Mod contains protected paths"** select **"yes install to staging anyway"**
+- When you see a pop-up titled **"you have reached the fallback installer"** select **"yes install to staging anyway"**
+- When you see a pop-up titled **"not an archive"** select **"create mod"**.
+- Throughout the install process you will have some **"installer"** popups so that you can customize some mods to your liking.  
+
+---
+
+## [OPTIONAL MODS](https://)
+
+***Note** If you dont want the optional mods skip this step.
+
+15) Select **"show"** optional mods then select **"no thanks"**
+
+![](https://s11.gifyu.com/images/Optinal.jpg)
+
+Now you can choose which ***(OPTIONAL)***  mods you would like to install these mods have notes attached and you will be prompted with specific installation options to guide you through the process ⛔ **(make sure to read these messages)**.
 
 ⛔ After installation make sure to only enable one makeup mod and one wand mod disable the others or the game will **CRASH** see mod settings and overview.
 
