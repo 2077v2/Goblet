@@ -298,34 +298,23 @@ Click [HERE](https://youtu.be/RT7w9LDec1I)  to watch our tutorial video.
 
 ![img](https://i.imgur.com/IqyYRkU.png)
 
-## ⛔[WARNINGS⛔  ](https://)
+## ⛔[WARNINGS](https://)⛔
 
-All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install "all optional mods" in Vortex these will require you to manually disable the ones you don't want you must read the following guide.
+If you see this> ⛔ then you need to read and follow the directions.
 
-If a mod is marked with 1️⃣ then you need to choose just one of those mods per category e.g. INPUTS, BODY MODS ect in **Vortex.**
+⛔ All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install **"all optional mods" (see optional mods section above in the install guide)** if you do choose to install all then you will have to manually disable the ones you don't want it.
 
-If a mod is marked with ⛔ Then you need to read and follow the directions.
+⛔ It Is important that you read the following guide to fully understand everything clearly.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ## ![](https://s11.gifyu.com/images/Difficulty.png)
 
-![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
-
-[INPUTS](https://) ***(OPTIONAL)*** 
-
-## 
-
-- [Better Broom Controls](https://www.nexusmods.com/hogwartslegacy/mods/128) 
-
-A subjectively better profile for flying for both controllers and mouse/keyboard.
-Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K) reminiscent of the flying controls from the old Harry Potter games.
+> [The Goblet Overhaul by v2 is included in the collection. You can choose from many presets so you can set the difficulties as you wish for an easier or more challenging experience.](https://)
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s11.gifyu.com/images/BODY-MODS.png)
-
-
 
 > [FACE SWAPS ](https://)
 
@@ -338,17 +327,21 @@ Removes vertical controls from the right joystick and binds all navigation to th
 - [Grey Lady's Hair](https://www.nexusmods.com/hogwartslegacy/mods/1016?tab=description) (Replaces Hair #3).
 - [Curly Hair - Bellatrix style ](https://www.nexusmods.com/hogwartslegacy/mods/1090?tab=description)(Replaces hair #10) 
 - [Garlick's Hair for Player](https://www.nexusmods.com/hogwartslegacy/mods/964?tab=description) (Replaces hair #38)
-- [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description) (Replaces hair #41)    
+- [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description) (Replaces hair #41)
 
-![](https://i.imgur.com/2Tr8P52.png)1️⃣ [School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+---
 
-![](https://i.imgur.com/IO9b0O2.png)1️⃣ [Gothic Makeup](https://) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+⛔ (**IMPORTANT)** choose only one of the makeup mods below.                                                                                                                                                                 
 
-⛔ (**IMPORTANT)** choose only one makeup mod.
+![](https://i.imgur.com/2Tr8P52.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
-### EYES
+![](https://i.imgur.com/IO9b0O2.png)[Gothic Makeup](https://) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+
+---
 
 ![](https://i.imgur.com/7QblBwl.png)[Brighter Eyes](https://www.nexusmods.com/hogwartslegacy/mods/1058?tab=description) by [070ZeroSevenZero](https://https://www.nexusmods.com/hogwartslegacy/users/171626058)
+
+---
 
 ![](https://i.imgur.com/5UlBqdF.png)[Beards And More](https://www.nexusmods.com/hogwartslegacy/mods/586?tab=description) by [DefaultKashou](https://https://www.nexusmods.com/hogwartslegacy/users/1514643) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -358,42 +351,44 @@ Removes vertical controls from the right joystick and binds all navigation to th
 
 ![](https://i.imgur.com/0Csldea.jpg)[Improved Dark Arts Deluxe Robes](https://www.nexusmods.com/hogwartslegacy/mods/153?tab=description) by [Arbek ](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me) (Replaces Dark arts Robes) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
-Robe Recolours
+---
+
+![](https://i.imgur.com/WKodnYg.png)[Pleated Mini Skirts](https://www.nexusmods.com/hogwartslegacy/mods/1139) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+
+---
+
+![](https://i.imgur.com/kq1PUXO.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+
+---
+
+### Uniforms.
+
+- [House Formal Uniform (Witch)](https://www.nexusmods.com/hogwartslegacy/mods/823?tab=description)
+
+### Jewellery.
+
+- [Heart Choker](https://www.nexusmods.com/hogwartslegacy/mods/809?tab=files) 
+
+### Robe Recolours
 
 - [Black Beast Robes](https://www.nexusmods.com/hogwartslegacy/mods/281?tab=description)  
 - [Dragonhide Protector's Cloak Black](https://www.nexusmods.com/hogwartslegacy/mods/291?tab=description)   
 - [Dark House Tailcoat](https://www.nexusmods.com/hogwartslegacy/mods/605) 
 - [House Of Cobalt](https://www.nexusmods.com/hogwartslegacy/mods/627)     
 
-![](https://i.imgur.com/WKodnYg.png)[Pleated Mini Skirts](https://www.nexusmods.com/hogwartslegacy/mods/1139) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) (Replaces all skirts)
-
-Uniforms.
-
-- [House Formal Uniform (Witch)](https://www.nexusmods.com/hogwartslegacy/mods/823?tab=description)
-
-Jewellery.
-
-- [Heart Choker](https://www.nexusmods.com/hogwartslegacy/mods/809?tab=files) 
-
-Glasses.
-
-![](https://i.imgur.com/kq1PUXO.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
-
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-![](https://s11.gifyu.com/images/BROOMS.png)
+![](https://s12.gifyu.com/images/COMBAT-WANDS.png)
 
-[WANDS](https://) ***(OPTIONAL)*** 
+⛔ ***NOTE** ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE. 
 
-### NOTE ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE. 
+![](https://i.imgur.com/PA2stYG.png)[The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793) This mod contains all 39 wand models and texture variants found in the game. Once installed with the collection a popup will appear all you have to do is choose your wand from the installer.
 
-![](https://i.imgur.com/PA2stYG.png)[1️⃣ The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793) This mod contains all 39 wand models and texture variants found in the game. Once installed with the collection a popup will appear all you have to do is choose your wand from the installer.
+---
 
-### Other Wands.
+Other Wands.
 
 - 13 Custom Wands. 
-
-⛔ (**IMPORTANT)** choose only one wand. Toggle the ones you don't want in **Vortex**
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -401,22 +396,27 @@ Glasses.
 
 ![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) Replaces the existing vanilla brooms.
 
-### Other Brooms.
+---
+
+> [Other Brooms.](https://)
 
 - [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) (This mod Replaces the Family Antique Broom) 
 - [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom) 
 
+> [Better Broom Controls](https://www.nexusmods.com/hogwartslegacy/mods/128) 
+
+A subjectively better profile for flying for both controllers and mouse/keyboard.
+Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K) reminiscent of the flying controls from the old Harry Potter games.
+
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-[ADVANCED MOD TOOLS](https://)
+![](https://s12.gifyu.com/images/MOD-TOOLS.png)
 
-These tools are included in the collection and can be found in your main game directory. ***(Note)*** for Advanced users only.
+***Note**** for Advanced users only. These tools are included in the collection and can be found in your main game directory. 
 
 - HLSE Hogwarts Legacy Save Game Editor. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/77?tab=description)
 
 - Hogwarts Mod Merger. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/178)
-
-- Blueprint Apparate Modloader. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/56) This gets installed into the ~mods folder.
 
 - Hidden Dev Menu Enabler When at the main menu screen (Character Selection) Press **Tab** to reveal the hidden menu. 
 
