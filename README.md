@@ -1,4 +1,4 @@
-### Collection Rev 58 Ver 4.82          Collection Updated and working for Game version     
+### Collection Rev 58 Ver 4.82      Collection Updated and working for Game version     
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -45,7 +45,28 @@ This is a 110+ Mod Collection it has been put together in a way that you can cus
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
-![img](https://i.imgur.com/tC2r0hV.png)![](https://i.imgur.com/RFwKo3R.png)![]([img]https://i.imgur.com/WCI3FXw.png[/img])![](]https://i.imgur.com/r9uMVie.png)[![](https://i.imgur.com/r9uMVie.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [discord](https://discord.gg/xZNztPjA2u) server so we can help users like you.
+![](https://i.imgur.com/tC2r0hV.png)
+
+- 120 Mods in one click 
+- 10+ Clothing Mods
+- 20+ Body Mods
+- 5+ Broom Mods
+- 50+ Custom Wands
+- 25+ Followers/Companions
+- Graphics and Texture Mods
+- Gameplay mods & Tweaks.
+- Bug fixes. 
+- Quality-of-life improvements. 
+- Input mods.
+- Improved UI.
+- In-game Mod Menus
+- In-game Appearance Menu
+- Save Game Editor.
+- Support for other Modular Expansion Packs.
+- [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
+- Continuous Support on Comments and Discord.     
+
+![]([img]https://i.imgur.com/WCI3FXw.png[/img])![](]https://i.imgur.com/r9uMVie.png)[![](https://i.imgur.com/r9uMVie.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [discord](https://discord.gg/xZNztPjA2u) server so we can help users like you.
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -277,8 +298,6 @@ Click [HERE](https://youtu.be/RT7w9LDec1I)  to watch our tutorial video.
 
 ![img](https://i.imgur.com/IqyYRkU.png)
 
-It is still early days and most mods are replacers of original items in the game Hopefully in the future we will have standalone items.
-
 ## ⛔[WARNINGS⛔  ](https://)
 
 All ***(OPTIONAL)***  mods will be enabled automatically if you choose to install "all optional mods" in Vortex these will require you to manually disable the ones you don't want you must read the following guide.
@@ -287,23 +306,39 @@ If a mod is marked with 1️⃣ then you need to choose just one of those mods p
 
 If a mod is marked with ⛔ Then you need to read and follow the directions.
 
----
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## [INPUTS](https://) ***(OPTIONAL)***  
+## ![](https://s11.gifyu.com/images/Difficulty.png)
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+[INPUTS](https://) ***(OPTIONAL)*** 
 
 ## 
 
 - [Better Broom Controls](https://www.nexusmods.com/hogwartslegacy/mods/128) 
 
 A subjectively better profile for flying for both controllers and mouse/keyboard.
-Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K)
-Reminiscent of the flying controls from the old Harry Potter games.
+Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K) reminiscent of the flying controls from the old Harry Potter games.
 
----
+## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## [BODY MODS](https://)
+![](https://s11.gifyu.com/images/BODY-MODS.png)
 
-### MAKEUP & SKINTONES ***(OPTIONAL)***
+
+
+> [FACE SWAPS ](https://)
+
+- [Yennefer Face Model ](https://www.nexusmods.com/hogwartslegacy/mods/821?tab=description)(Choose Face #01 to use this face)
+- [Custom female face14 model ](https://www.nexusmods.com/hogwartslegacy/mods/350?tab=files)(Choose Face #14 to use this face) 
+- You can choose from 11 diffrent other faces from characters in the game.
+
+> [HAIR](https://)
+
+- [Grey Lady's Hair](https://www.nexusmods.com/hogwartslegacy/mods/1016?tab=description) (Replaces Hair #3).
+- [Curly Hair - Bellatrix style ](https://www.nexusmods.com/hogwartslegacy/mods/1090?tab=description)(Replaces hair #10) 
+- [Garlick's Hair for Player](https://www.nexusmods.com/hogwartslegacy/mods/964?tab=description) (Replaces hair #38)
+- [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description) (Replaces hair #41)    
 
 ![](https://i.imgur.com/2Tr8P52.png)1️⃣ [School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -313,55 +348,13 @@ Reminiscent of the flying controls from the old Harry Potter games.
 
 ### EYES
 
-![](https://i.imgur.com/7QblBwl.png)[Brighter Eyes](https://www.nexusmods.com/hogwartslegacy/mods/1058?tab=description) by [070ZeroSevenZero](https://https://www.nexusmods.com/hogwartslegacy/users/171626058) (Replacers all eyes)
-
-### FACE SWAPS 
-
-You can install these faces as long as you don't have other faces installed that replaces the same face No#.
-
-### CUSTOM PLAYER FACES ***(OPTIONAL)***  
-
-Female
-
-- 1️⃣ [Yennefer Face Model ](https://www.nexusmods.com/hogwartslegacy/mods/821?tab=description)(Replaces Face #01)
-- [1️⃣ Custom female face14 model ](https://www.nexusmods.com/hogwartslegacy/mods/350?tab=files)(Replaces Face #14)   
-⛔ (**IMPORTANT)** choose only one
-
-### PFR PLAYER FACE REPLACER    
-
-Female (FFR)
-
-- FFR - Imelda Reyes (Replaces the female face #03) with the [Imelda Reyes](https://www.nexusmods.com/hogwartslegacy/mods/529?tab=images) model.
-- FFR - Adelaide Oakes (Replaces the female face #04) with the [Adelaide Oakes](https://www.nexusmods.com/hogwartslegacy/mods/410?tab=images) model.
-- FFR - Poppy Sweeting (Replaces the female face #05) with the [Poppy Sweeting](https://www.nexusmods.com/hogwartslegacy/mods/412?tab=images) model.
-- FFR - Sacharissa Tugwood (Replaces the female face #06) with the [Sacharissa Tugwood](https://www.nexusmods.com/hogwartslegacy/mods/673?tab=images) model. 
-- FFR - Sophronia Franklin (Replaces the female face #11) with the [Sophronia Franklin](https://www.nexusmods.com/hogwartslegacy/mods/415?tab=images) model.
-- FFR - Zenobia Noke (Replaces the female face #12) with the [Zenobia Noke](https://www.nexusmods.com/hogwartslegacy/mods/416?tab=images) model.
-- FFR - Gertrude Wigley (Replaces the female face #13) with the [Gertrude Wigley](https://www.nexusmods.com/hogwartslegacy/mods/530?tab=images) model.  
-
-Male (MFR)
-
-- MFR - Garreth Weasley (Replaces the male face #04) with the [Garreth Weasley](https://www.nexusmods.com/hogwartslegacy/mods/531?tab=images) model. 
-- MFR - Ominis Gaunt (Replaces the male face #05) with the [Ominis Gaunt](https://www.nexusmods.com/hogwartslegacy/mods/532?tab=images) model.
-- MFE - Amit Thakkar (Replaces the male face #11) with the Amit [Thakkar model](https://www.nexusmods.com/hogwartslegacy/mods/646?tab=images)
-- MFE - Leander Prewett (Replaces the male face #12) with the [Leander Prewett](https://www.nexusmods.com/hogwartslegacy/mods/647?tab=images) model.  
-
-### MALE FACIAL HAIR  
+![](https://i.imgur.com/7QblBwl.png)[Brighter Eyes](https://www.nexusmods.com/hogwartslegacy/mods/1058?tab=description) by [070ZeroSevenZero](https://https://www.nexusmods.com/hogwartslegacy/users/171626058)
 
 ![](https://i.imgur.com/5UlBqdF.png)[Beards And More](https://www.nexusmods.com/hogwartslegacy/mods/586?tab=description) by [DefaultKashou](https://https://www.nexusmods.com/hogwartslegacy/users/1514643) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
-### HAIR  ***(OPTIONAL)*** 
+## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-- [Grey Lady's Hair](https://www.nexusmods.com/hogwartslegacy/mods/1016?tab=description) (Replaces Hair #3).
-- [Curly Hair - Bellatrix style ](https://www.nexusmods.com/hogwartslegacy/mods/1090?tab=description)(Replaces hair #10) 
-- [Garlick's Hair for Player](https://www.nexusmods.com/hogwartslegacy/mods/964?tab=description)(Replaces hair #38)
-- [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description)(Replaces hair #41)    
-
----
-
-## [OUTFITS](https://) ***(OPTIONAL)***
-
-Robes
+### ![](https://s12.gifyu.com/images/OUTFITS.png)
 
 ![](https://i.imgur.com/0Csldea.jpg)[Improved Dark Arts Deluxe Robes](https://www.nexusmods.com/hogwartslegacy/mods/153?tab=description) by [Arbek ](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me) (Replaces Dark arts Robes) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -371,8 +364,6 @@ Robe Recolours
 - [Dragonhide Protector's Cloak Black](https://www.nexusmods.com/hogwartslegacy/mods/291?tab=description)   
 - [Dark House Tailcoat](https://www.nexusmods.com/hogwartslegacy/mods/605) 
 - [House Of Cobalt](https://www.nexusmods.com/hogwartslegacy/mods/627)     
-
-Skirts
 
 ![](https://i.imgur.com/WKodnYg.png)[Pleated Mini Skirts](https://www.nexusmods.com/hogwartslegacy/mods/1139) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) (Replaces all skirts)
 
@@ -388,57 +379,36 @@ Glasses.
 
 ![](https://i.imgur.com/kq1PUXO.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
----
+## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## [WANDS](https://) ***(OPTIONAL)*** 
+![](https://s11.gifyu.com/images/BROOMS.png)
+
+[WANDS](https://) ***(OPTIONAL)*** 
 
 ### NOTE ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE. 
 
 ![](https://i.imgur.com/PA2stYG.png)[1️⃣ The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793) This mod contains all 39 wand models and texture variants found in the game. Once installed with the collection a popup will appear all you have to do is choose your wand from the installer.
 
-Other Wands.
+### Other Wands.
 
-Professors.
-
-- [1️⃣Dumbledore's - Fantastic Beasts - Wand](https://www.nexusmods.com/hogwartslegacy/mods/825)
-- [1️⃣McGonagall's Wand](https://www.nexusmods.com/hogwartslegacy/mods/514) 
-
-Students.
-
-- [1️⃣Harry's Wand](https://www.nexusmods.com/hogwartslegacy/mods/215) 
-- [1️⃣Hermione Granger Wand](https://www.nexusmods.com/hogwartslegacy/mods/441)   
-- [1️⃣DracoMalfoyWand](https://www.nexusmods.com/hogwartslegacy/mods/849)   
-- [1️⃣Luna Lovegood's Wand](https://www.nexusmods.com/hogwartslegacy/mods/311)  
-
-Dark.
-
-- [1️⃣Voldemort's Wand](https://www.nexusmods.com/hogwartslegacy/mods/199)  
-- [1️⃣Bellatrix Lestrange Wand](https://www.nexusmods.com/hogwartslegacy/mods/355)
-- [1️⃣Peter Pettigrew's Wand](https://www.nexusmods.com/hogwartslegacy/mods/316)
-- [1️⃣Lucius's Wand](https://www.nexusmods.com/hogwartslegacy/mods/81)
-
-Other.
-
-- [1️⃣The Elder Wand](https://www.nexusmods.com/hogwartslegacy/mods/75)
-- [1️⃣Sirius Black Wand](https://www.nexusmods.com/hogwartslegacy/mods/286)
-- [1️⃣Grindelwald - Fantastic Beasts - Wand](https://www.nexusmods.com/hogwartslegacy/mods/619)
+- 13 Custom Wands. 
 
 ⛔ (**IMPORTANT)** choose only one wand. Toggle the ones you don't want in **Vortex**
 
----
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## [BROOMS](https://)
+![](https://s11.gifyu.com/images/BROOMS.png)
 
 ![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) Replaces the existing vanilla brooms.
 
-Other Brooms.
+### Other Brooms.
 
 - [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) (This mod Replaces the Family Antique Broom) 
 - [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom) 
 
----
+## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-## [ADVANCED MOD TOOLS](https://)
+[ADVANCED MOD TOOLS](https://)
 
 These tools are included in the collection and can be found in your main game directory. ***(Note)*** for Advanced users only.
 
@@ -484,7 +454,7 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 - [num -](https://) : small with a giant head 
 - [num +](https://) : giant mode    
 
----
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ## [BLUEPRINT MODS](https://)
 
@@ -531,7 +501,7 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 > [ANYTIMECOMPANION](https://www.nexusmods.com/hogwartslegacy/mods/841) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)   
 > AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again.
 
----
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 [LIST OF COMMANDS FOR QUICK COPY AND PASTE.](https://)
 
@@ -1014,7 +984,6 @@ These are the official System Requirements.
 - [Toggle HUD.](https://www.nexusmods.com/hogwartslegacy/mods/137)
 - [Better Graphics and No Fog.](https://www.nexusmods.com/hogwartslegacy/mods/279)
 - [Force Fullscreen FPS Boost](https://www.nexusmods.com/hogwartslegacy/mods/470)
-- [AUTOHOMORA - Auto Skip Alohomora Minigame](https://www.nexusmods.com/hogwartslegacy/mods/297)
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
