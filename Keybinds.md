@@ -25,3 +25,8 @@ Change your height
 - num 7-9 : taller than adult
 - num - : small with a giant head 
 - num + : giant mode
+
+Reshade controls
+
+- End key to toggle main effects
+- Home key to open GUI
