@@ -1,4 +1,4 @@
-### Collection Rev 58 Ver 4.82      Collection Updated and working for Game version      
+### Collection Rev 58 Ver 4.82            
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -927,15 +927,11 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 
 ![img](https://i.imgur.com/yO1EYsT.png)
 
-![Vortex](https://i.imgur.com/t4fCVSy.jpg)
-
 ### Recommended In-game settings These settings will give a small performance boost without sacrificing quality.
 
 ![Vortex](https://i.imgur.com/srR36z8.png)
 
 ![Vortex](https://i.imgur.com/AHY1Kjx.png)
-
-### [Ascendio - Unofficial FPS Hotfix for PC by SEIFU](https://www.nexusmods.com/hogwartslegacy/users/77609528) This tool is included in the collection and can be found in your main game directory. Just open it and run the installer.
 
 ### YOUTUBE GUIDES TO IMPROVE GAMING PERFORMANCE.
 
@@ -950,7 +946,6 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 
 - [Ascendio - Unofficial FPS Hotfix for PC by SEIFU](https://www.nexusmods.com/hogwartslegacy/users/77609528) (INCLUDED IN THIS COLLECTION)
 - [Force Fullscreen FPS Boost](https://www.nexusmods.com/hogwartslegacy/mods/470)
-- [DLSS Update](https://www.nexusmods.com/hogwartslegacy/mods/59) (INCLUDED IN THIS COLLECTION)
 - [QUICK CPU](https://coderbag.com/product/quickcpu)
 - [ISLC](https://www.wagnardsoft.com/forums/viewtopic.php?t=1256)
 - [NVIDIA PROFILE INSPECTOR](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
