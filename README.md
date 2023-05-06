@@ -413,6 +413,11 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Smaller crosshair and mouse pointer.
 - Custom flying camera.
 
+> [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     
+
+- Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
+Plus you also have a position helper to let you move your character precisely while playing an animation.  
+
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s12.gifyu.com/images/GAMEPLAY.png)
@@ -446,11 +451,15 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Student's curfew in the game is now 10 pm.
 - You can now toggle to walk.
 
+### [ANYTIMECOMPANION](https://)**** by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)
+
+- AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again
+
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s12.gifyu.com/images/COMBAT-WANDS.png)
 
-⛔ ***NOTE** ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE.
+⛔ ***NOTE** All wands are enabled by default if you install **"all optionall mods"** remember to disable all but one.
 
 - 52 Custom Wands.
 - You can now unequip your wand anytime you want with a in game hotkey.
@@ -467,13 +476,9 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://s11.gifyu.com/images/BROOMS.png)
 
+- 7 Custom brooms.
 - You can now fly your broom anywhere you want even in restricted zones.
 - Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K). ***(OPTIONALL)***
-
-> [Other Brooms.](https://)
-
-- [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) 
-- [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) 
 
 ---
 
@@ -525,15 +530,7 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 - [num -](https://) : small with a giant head 
 - [num +](https://) : giant mode    
 
-![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
-
-## [BLUEPRINT MODS](https://)
-
-> [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
-> Plus you also have a position helper to let you move your character precisely while playing an animation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-
-> [ANYTIMECOMPANION](https://www.nexusmods.com/hogwartslegacy/mods/841) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)   
-> AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again![img](https://i.imgur.com/atKF9CF.png)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ![](https://i.imgur.com/atKF9CF.png)
 
 ![img](https://i.imgur.com/Pwo08kq.png)
 
