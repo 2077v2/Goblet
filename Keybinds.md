@@ -1,4 +1,4 @@
-MOD KEY BINDS
+https://s12.gifyu.com/images/MOD-KEYBINDS.png
 
 After you activate the mods with the Blueprint Apparate Modloader (F8) these will be the default Keybinds.
 
