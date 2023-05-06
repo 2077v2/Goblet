@@ -1,4 +1,4 @@
-### Collection Rev 58 Ver 4.82      Collection Updated and working for Game version     
+### Collection Rev 58 Ver 4.82      Collection Updated and working for Game version      
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -331,7 +331,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ---
 
-⛔ (**IMPORTANT)** choose only one of the makeup mods below.                                                                                                                                                                 
+⛔ (**IMPORTANT)** choose only one of the makeup mods below.
 
 ![](https://i.imgur.com/2Tr8P52.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -374,21 +374,64 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [Black Beast Robes](https://www.nexusmods.com/hogwartslegacy/mods/281?tab=description)  
 - [Dragonhide Protector's Cloak Black](https://www.nexusmods.com/hogwartslegacy/mods/291?tab=description)   
 - [Dark House Tailcoat](https://www.nexusmods.com/hogwartslegacy/mods/605) 
-- [House Of Cobalt](https://www.nexusmods.com/hogwartslegacy/mods/627)     
+- [House Of Cobalt](https://www.nexusmods.com/hogwartslegacy/mods/627)
+
+
+
+- You can now change your in game height.
+
+     
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
+![](https://s11.gifyu.com/images/GRAPHICS.png)
+
+- Reshade included.
+- Reshade Presets.
+- Upscaled cutscenes.
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+![](https://s12.gifyu.com/images/GAMEPLAY.png)
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+![](https://s11.gifyu.com/images/QUALITY-OF-LIFE.png)
+
+- Adds a clock under the map, and/or display date time notification after a wait or loading.
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+![](https://s12.gifyu.com/images/CHEATS.png)
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+
+
+![](https://s11.gifyu.com/images/IMMERSION.png)
+
+- You can now skip time and watch the world go by in front of your eyes.
+- Automatically swap outfits when entering and leaving the Hogwarts map.
+
+
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
 ![](https://s12.gifyu.com/images/COMBAT-WANDS.png)
 
-⛔ ***NOTE** ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE. 
+⛔ ***NOTE** ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE.
 
 ![](https://i.imgur.com/PA2stYG.png)[The Ultimate Wand Collection](https://www.nexusmods.com/hogwartslegacy/mods/1208?tab=description) by [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793) This mod contains all 39 wand models and texture variants found in the game. Once installed with the collection a popup will appear all you have to do is choose your wand from the installer.
 
 ---
 
-Other Wands.
+### Other Wands.
 
-- 13 Custom Wands. 
+- 13 Custom Wands.
+- You can now unequip your wand anytime you want with a in game hotkey.
+- You can now edit your wand from the in game menu.
+- You can now duel a student anywhere anytime. 
+- You can now spawn any enemy on the spot to fight.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -397,6 +440,8 @@ Other Wands.
 ![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) Replaces the existing vanilla brooms.
 
 ---
+
+- You can now fly your broom anywhere you want even in restricted zones.
 
 > [Other Brooms.](https://)
 
@@ -412,7 +457,7 @@ Removes vertical controls from the right joystick and binds all navigation to th
 
 ![](https://s12.gifyu.com/images/MOD-TOOLS.png)
 
-***Note**** for Advanced users only. These tools are included in the collection and can be found in your main game directory. 
+***Note**** for Advanced users only. These tools are included in the collection and can be found in your main game directory.
 
 - HLSE Hogwarts Legacy Save Game Editor. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/77?tab=description)
 
@@ -460,7 +505,7 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 
 > [UNIVERSAL SETTINGS MOD MENU](https://)  by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                   Mod menu that helps you manage any mod settings that is compatible with that menu.
 
-> [DUEL ANYONE ANYWHERE](https://www.nexusmods.com/hogwartslegacy/mods/1185) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                             Do you want to duel a student out of nowhere ? Then this mod is for you. Choose a student and duel them.
+> [DUEL ANYONE ANYWHERE](https://www.nexusmods.com/hogwartslegacy/mods/1185) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                             You can now duel a student anywhere anytime.
 
 > [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
 > Plus you also have a position helper to let you move your character precisely while playing an animation.
