@@ -20,16 +20,15 @@ This is a 110+ Mod Collection it has been put together in a way that you can cus
 4. Warnings❗
 5. Installation. 
 6. Troubleshooting.
-7. Mod Settings and Overview.
-8. Blueprint  Apparate Modloader Menu.    
-9. [THE GOBLET OVERHAUL.](https://www.nexusmods.com/hogwartslegacy/mods/702) 
-10. Modding The Collection.
-11. Compatible Collections & Pack Installation Guide. 
-12. Performance Guide for HOGWARTS LEGACY by [v2](https://www.nexusmods.com/users/123334373).   
-13. System Requirements. 
-14. Permissions.
-15. Other mods we recommend.
-16. Support The Curators and Modders. 
+7. Mod Settings and Overview.   
+8. [THE GOBLET OVERHAUL.](https://www.nexusmods.com/hogwartslegacy/mods/702) 
+9. Modding The Collection.
+10. Compatible Collections & Pack Installation Guide. 
+11. Performance Guide for HOGWARTS LEGACY by [v2](https://www.nexusmods.com/users/123334373).   
+12. System Requirements. 
+13. Permissions.
+14. Other mods we recommend.
+15. Support The Curators and Modders. 
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -223,7 +222,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 - ***yearlevel***
 - ***AnyTimeC***   
 
-17) To use some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. Or here [Keybinds.](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)
+17) To use some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. And down below under **"Mod settings and overview"**
 
 YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
@@ -416,7 +415,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 > [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     
 
 - Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
-Plus you also have a position helper to let you move your character precisely while playing an animation.  
+Plus you also have a position helper to let you move your character precisely while playing an animation.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -496,15 +495,11 @@ Plus you also have a position helper to let you move your character precisely wh
 
 - Hidden Dev Menu Enabler When at the main menu screen (Character Selection) Press **Tab** to reveal the hidden menu. 
 
-![img](https://i.imgur.com/gF9VG11.png)
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
-![img](https://i.imgur.com/6WC3bSb.png)
+## ![](https://s12.gifyu.com/images/MOD-KEYBINDS.png)
 
-This mod loader will add a menu that you can open with the ***F8*** key, you can add logic mods with ***commands*** and your list of mods will be saved and automatically loaded every time the level is loaded in.
-
-## [MOD KEY BINDS](https://)
-
-After you activate the mods with the Blueprint Apparate Modloader (F8) these will be the default Keybinds.
+After you activate the mods with the Blueprint Apparate Modloader **(F8)** these will be the default Keybinds.
 
 - [HOME](https://): Reshade. (OPTIONAL) 
 - [F2](https://): Toggle Hud. (OPTIONAL)   
@@ -530,7 +525,7 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 - [num -](https://) : small with a giant head 
 - [num +](https://) : giant mode    
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ![](https://i.imgur.com/atKF9CF.png)
+![](https://i.imgur.com/atKF9CF.png)
 
 ![img](https://i.imgur.com/Pwo08kq.png)
 
@@ -1035,5 +1030,4 @@ If you would like to support me so i can afford a new broom and wand click the b
 - Hogwarts Legacy brand and name is the registered trademark of its respective owner.  
 
 ![img](https://i.imgur.com/gF9VG11.png)
-
 
