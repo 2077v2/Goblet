@@ -278,10 +278,6 @@ Simply delete **ShaderToggler.ini**
 - **Steam users>**    *Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy* 
 - **Epic> users**        *Drive Letter\EpicLibrary\Hogwarts Legacy*
 
-## [I uninstalled a mod but it's still in my game](https://)❓  
-
-- Perform a Cleanup.  Video [HERE](https://youtu.be/RT7w9LDec1I)  
-
 ## [I've installed the collection but my game crashes when I create a character](https://)❓
 
 - This is most likely because you have two or more non-compatible mods enabled ie **MAKEUP**, **CUSTOM PLAYER FACES**, **WANDS** check the mod settings and overview section.
@@ -306,7 +302,7 @@ Click [HERE](https://youtu.be/RT7w9LDec1I)  to watch our tutorial video.
 
 4) Now, look back in the mods folder again all of the mods should have been removed if there are any left behind select them and delete them.
 
-5) Go back to Vortex and at the top of the mods tab you will see "Deploy" select this and now all of the up-to-date mods should be placed back in your mods folder.
+5) Go back to Vortex and at the top of the mods tab you will see **"Deploy"** select this and now all of the up-to-date mods should be placed back in your mods folder.
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -392,18 +388,29 @@ If you see this> ⛔ then you need to read and follow the directions.
 ![](https://s11.gifyu.com/images/GRAPHICS.png)
 
 - Reshade included.
-- Reshade Presets.
+- Reshade Presets included.
 - Upscaled cutscenes.
+- Toggle hud.
+- Smaller UI.
+- Lots of ingame menus to configure your mods.
+- Smaller crosshair and mouse pointer.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s12.gifyu.com/images/GAMEPLAY.png)
 
+- See the Goblet Overhaul down below for many diffrent presets with 100s of changes to custom fit your gameplay experiance. 
+- You can now switch houses anytime by pressing ***H***.
+- You can now apparate/fast travel to any location, with lore-friendly exceptions such as Hogwarts and unexplored areas.
+- You can now toggle between running,jogging and walking.
+
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s11.gifyu.com/images/QUALITY-OF-LIFE.png)
 
-- Adds a clock under the map, and/or display date time notification after a wait or loading.
+- Adds a clock under the map to display date and time with notifications after a wait or loading.
+- You can now refresh the stock at the vendor in hogsmeade.
+- You can select sell all at the vendor in hogsmeade. 
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -418,7 +425,8 @@ If you see this> ⛔ then you need to read and follow the directions.
 - You can now skip time and watch the world go by in front of your eyes.
 - Automatically swap outfits when entering and leaving the Hogwarts map.
 - Train Times increased to every day and three more times a day.
-- Student's curfew in the game is now 10 pm. 
+- Student's curfew in the game is now 10 pm.
+- You can now toggle to walk.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -441,17 +449,19 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://s11.gifyu.com/images/BROOMS.png)
 
-![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868)
-
----
-
 - You can now fly your broom anywhere you want even in restricted zones.
 - Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K). ***(OPTIONALL)***
 
 > [Other Brooms.](https://)
 
 - [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) (This mod Replaces the Family Antique Broom) 
-- [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom) 
+- [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom)
+
+---
+
+ 
+
+![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) Replaces some brooms in the game to high quality custom textured brooms.
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -1032,7 +1042,7 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
-![img](https://i.imgur.com/whUqX4P.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://) 
+![img](https://i.imgur.com/whUqX4P.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://)
 
 Please let us know if you have any issues with this collection before you vote I'm sure we can figure it out.
 
