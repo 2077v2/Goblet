@@ -200,9 +200,30 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-16) To use **(Blueprint Apparate Mod Menu)** use **F8** on your keyboard to bring up the overlay here you enter the commands for the mods down below.
+16) To use **(Blueprint Apparate Mod Menu)** use **F8** on your keyboard to bring up the Menu here you enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
 
-17) To activate some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. Or here [Keybinds.](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)
+- ***SettingsMod***
+- ***StudentsCombat***
+- ***PlayAnyAnimation***
+- ***CharacterEditor*** 
+- ***DualDresser***
+- ***UnEquipWand*** 
+- ***DekChangeHouse*** 
+- ***DekEnemisExtremis***
+- ***DekUICore***
+- ***DekTrollInTheDungeon***
+- ***DekVendorRefreshButton***
+- ***DekOutfitStudioBETA*** 
+- ***FreeLookCamMod*** 
+- ***FreeFlyMod***
+- ***WalkingMod***
+- ***Apparition*** 
+- ***DisplayDateTime***
+- ***SkipTime*** 
+- ***yearlevel***
+- ***AnyTimeC***   
+
+17) To use some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. Or here [Keybinds.](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)
 
 YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
@@ -326,25 +347,17 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://s11.gifyu.com/images/BODY-MODS.png)
 
-### **[FACE SWAPS ](https://)**
-
-- [Yennefer Face Model ](https://www.nexusmods.com/hogwartslegacy/mods/821?tab=description)(Choose Face #01 to use this face)
-- [Custom female face14 model ](https://www.nexusmods.com/hogwartslegacy/mods/350?tab=files)(Choose Face #14 to use this face) 
-
-### **[HAIR](https://)**
-
-- [Grey Lady's Hair](https://www.nexusmods.com/hogwartslegacy/mods/1016?tab=description) (Replaces Hair #3).
-- [Curly Hair - Bellatrix style ](https://www.nexusmods.com/hogwartslegacy/mods/1090?tab=description)(Replaces hair #10) 
-- [Garlick's Hair for Player](https://www.nexusmods.com/hogwartslegacy/mods/964?tab=description) (Replaces hair #38)
-- [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description) (Replaces hair #41)
-
-### 
-
 - You can now change your in game height.
 - You can now give your chracter a beard.
 - You can now choose from more hairstyles for your character.
 - You can choose from 13 custom player faces.
 - All eyes in the game are brighter and more vibrant.
+- Custom hairstyles.
+
+### **[FACE SWAPS ](https://)**
+
+- [Yennefer Face Model ](https://www.nexusmods.com/hogwartslegacy/mods/821?tab=description)(Choose Face #01 to use this face) ***(OPTIONAL)***
+- [Custom female face14 model ](https://www.nexusmods.com/hogwartslegacy/mods/350?tab=files)(Choose Face #14 to use this face) ***(OPTIONAL)***
 
 ---
 
@@ -383,6 +396,10 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://i.imgur.com/kq1PUXO.png)[Modern Glasses](https://www.nexusmods.com/hogwartslegacy/mods/450) by [AzurieWolf](https://https://www.nexusmods.com/Users/175270161?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
+---
+
+[OUTFIT STUDIO - BETA](https://www.nexusmods.com/hogwartslegacy/mods/997)  by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                                   The ULTIMATE clothing mod allows in-depth control over your player's outfit. Press the ***J***  key in the game to open the outfit studio menu.
+
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ![](https://s11.gifyu.com/images/GRAPHICS.png)
@@ -394,6 +411,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 - Smaller UI.
 - Lots of ingame menus to configure your mods.
 - Smaller crosshair and mouse pointer.
+- Custom flying camera.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -454,12 +472,10 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 > [Other Brooms.](https://)
 
-- [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) (This mod Replaces the Family Antique Broom) 
-- [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom)
+- [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) 
+- [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) 
 
 ---
-
- 
 
 ![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) Replaces some brooms in the game to high quality custom textured brooms.
 
@@ -513,77 +529,11 @@ After you activate the mods with the Blueprint Apparate Modloader (F8) these wil
 
 ## [BLUEPRINT MODS](https://)
 
-> [UNIVERSAL SETTINGS MOD MENU](https://)  by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                   Mod menu that helps you manage any mod settings that is compatible with that menu.
-
-> [DUEL ANYONE ANYWHERE](https://www.nexusmods.com/hogwartslegacy/mods/1185) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                             You can now duel a student anywhere anytime.
-
 > [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
-> Plus you also have a position helper to let you move your character precisely while playing an animation.
-
-> [CHARACTER EDITOR](https://www.nexusmods.com/hogwartslegacy/mods/974?tab=description) by [nathdev](https://www.nexusmods.com/hogwartslegacy/users/27923130)                                                                                                                                                                                        Easily edit both your character presets and your wand on the fly.
-
-> [DUAL DRESSER](https://www.nexusmods.com/hogwartslegacy/mods/1114?tab=description) by [nathdev](https://www.nexusmods.com/hogwartslegacy/users/27923130)                                                                                                                                                                                                  Little mod to automatically swap to a student outfit when entering the Hogwarts map. Press F6 to display the mod menu.
-
-> [UNEQUIP WAND](https://www.nexusmods.com/hogwartslegacy/mods/166) by [nathdev](https://www.nexusmods.com/hogwartslegacy/users/27923130)                                                                                                                                                                                                                                                        Currently, you must wait for your character to automatically unequip their wand, this mod adds a hotkey, that allows you to instantly unequip the wand.
-
-> [CHANGE HOUSE UI](https://www.nexusmods.com/hogwartslegacy/mods/1077?tab=description) by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                                      Adds a user interface that lets you switch houses anytime by pressing ***H***.
-
-> [ENIMIS EXTREMES](https://www.nexusmods.com/hogwartslegacy/mods/1261) by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                                              The ULTIMATE Enemy Mod!! Spawn additional foes with FULL customization!!
-
-> [UICORE](https://www.nexusmods.com/hogwartslegacy/mods/1260) by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                                                                A simple 'core' mod containing common widgets and logic used by other ui based mods.
-
-> [TROLL IN THE DUNGEON](https://) by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                           Adds occasional Troll spawns when your player is wandering around Hogwarts.
-
-> [VENDOR REFRESH BUTTON](https://www.nexusmods.com/hogwartslegacy/mods/1275) by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                           Adds a button into the vendor screen that allows you to refresh stock for the measly fee of 50 knuts.
-
-> [OUTFIT STUDIO - BETA](https://www.nexusmods.com/hogwartslegacy/mods/997)  by [Dekita](https://www.nexusmods.com/hogwartslegacy/users/51283421)                                                                                                                                                                                   The ULTIMATE clothing mod allows in-depth control over your player's outfit. Press the ***J***  key in the game to open the outfit studio menu.
-
-> [FREE LOOK CAMERA](https://www.nexusmods.com/hogwartslegacy/mods/1056?tab=description) by  [r457](https://www.nexusmods.com/hogwartslegacy/users/164673548)                                                                                                                                                                                                                                     The mod adds a custom camera you can switch to with ***alt*** and look around freely while flying.
-
-> [FREE FLY MOD](https://www.nexusmods.com/hogwartslegacy/mods/255) by  [r457](https://www.nexusmods.com/hogwartslegacy/users/164673548)                                                                                                                                                                                       Disables "No Mount", "No Dismount" and "Mount Speed Limit" volumes to allow for using your Broom (and mounts in general) in restricted zones.
-
-> [THE WALKING MOD](https://www.nexusmods.com/hogwartslegacy/mods/765) by  [jubaleth](https://www.nexusmods.com/hogwartslegacy/users/108195418)                                                                                                                                                                                       The default character speed is set to the walking speed, and the ***C*** button now toggles between Jogging mode and Walking mode without being reset after stopping motion/casting a spell. Auto-Walk To use auto-walk, simply press ***Alt + W***  (left alt key, and whatever you have movement forward bound to).
-
-> [LORE FRIENDLY APPARATION](https://www.nexusmods.com/hogwartslegacy/mods/1162) by [BenBandu](https://www.nexusmods.com/hogwartslegacy/users/9506217)                                                                                                                                                                                                               Adds the ability to apparate to any location, with lore-friendly exceptions such as Hogwarts and unexplored areas.
-
-> [DISPLAY THE CURRENT DATE AND TIME](https://www.nexusmods.com/hogwartslegacy/mods/723/?tab=description&jump_to_comment=122371575) by [WinterElfeas](https://www.nexusmods.com/hogwartslegacy/users/86268293)                                                                                                                                                  Add a clock under the map, and/or display date time notification after a wait or loading.
-
-> [BETTER AND IMMERSIVE TIME SKIP - HOTKEYS AND UI](https://www.nexusmods.com/hogwartslegacy/mods/1163?tab=description) by  [yakuzadeso](https://www.nexusmods.com/hogwartslegacy/users/63907421)                                                                                                                        Adds a UI and hotkeys that call customized wait/time skip functions that allow to speed up time until dawn or night, and even choose how many hours to wait while enjoying the view.
-
-> [YEAR LEVEL CHANGE YOUR HEIGHT](https://www.nexusmods.com/hogwartslegacy/mods/395) by [HappyCG](https://www.nexusmods.com/hogwartslegacy/users/175500318)
-> Adds the ability to change the player character's height between several presets by using the Numpad.
+> Plus you also have a position helper to let you move your character precisely while playing an animation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
 
 > [ANYTIMECOMPANION](https://www.nexusmods.com/hogwartslegacy/mods/841) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)   
-> AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again.
-
-![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
-
-[LIST OF COMMANDS FOR QUICK COPY AND PASTE.](https://)
-
-To activate any of the above mods in the game press ***F8*** to bring up the Blueprint Apparate Modloader menu and type the following codes.
-
-- ***SettingsMod***
-- ***StudentsCombat***
-- ***PlayAnyAnimation***
-- ***CharacterEditor*** 
-- ***DualDresser***
-- ***UnEquipWand*** 
-- ***DekChangeHouse*** 
-- ***DekEnemisExtremis***
-- ***DekUICore***
-- ***DekTrollInTheDungeon***
-- ***DekVendorRefreshButton***
-- ***DekOutfitStudioBETA*** 
-- ***FreeLookCamMod*** 
-- ***FreeFlyMod***
-- ***WalkingMod***
-- ***Apparition*** 
-- ***DisplayDateTime***
-- ***SkipTime*** 
-- ***yearlevel***
-- ***AnyTimeC***   
-
-![img](https://i.imgur.com/atKF9CF.png)
+> AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again![img](https://i.imgur.com/atKF9CF.png)
 
 ![img](https://i.imgur.com/Pwo08kq.png)
 
