@@ -82,10 +82,13 @@ This collection is extensively tested with every new version that is released. I
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
-![img](https://i.imgur.com/r5ZtuJe.png)⛔[WARNINGS](https://)⛔
+## ![img](https://i.imgur.com/r5ZtuJe.png)⛔[WARNINGS](https://)⛔
 
 - If you see this> ⛔ then you need to **READ** and follow the directions.
-- ⛔ It Is important that you **READ** the following guide to fully understand everything clearly.
+
+## [READ](https://)
+
+- ⛔ It Is important that you **READ** the following Installation guide to fully understand everything clearly.
 - **⛔ DO NOT** use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
@@ -198,6 +201,8 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 ## [In-game settings](https://)
 
 16) To use **(Blueprint Apparate Mod Menu)** use **F8** on your keyboard to bring up the overlay here you enter the commands for the mods down below.
+
+17) To activate some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. Or here [Keybinds.](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)
 
 YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
@@ -329,7 +334,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 - [Yennefer Face Model ](https://www.nexusmods.com/hogwartslegacy/mods/821?tab=description)(Choose Face #01 to use this face)
 - [Custom female face14 model ](https://www.nexusmods.com/hogwartslegacy/mods/350?tab=files)(Choose Face #14 to use this face) 
-- You can choose from 11 diffrent other faces from characters in the game.
 
 ### **[HAIR](https://)**
 
@@ -337,6 +341,26 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [Curly Hair - Bellatrix style ](https://www.nexusmods.com/hogwartslegacy/mods/1090?tab=description)(Replaces hair #10) 
 - [Garlick's Hair for Player](https://www.nexusmods.com/hogwartslegacy/mods/964?tab=description) (Replaces hair #38)
 - [Custom hair very long 41](https://www.nexusmods.com/hogwartslegacy/mods/854?tab=description) (Replaces hair #41)
+
+### 
+
+- You can now change your in game height.
+- You can now give your chracter a beard.
+- You can now choose from more hairstyles for your character.
+- You can choose from 13 custom player faces.
+- All eyes in the game are brighter and more vibrant.
+
+---
+
+⛔ (**IMPORTANT)** choose only one of the makeup mods below.
+
+![](https://i.imgur.com/2Tr8P52.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
+
+![](https://i.imgur.com/IO9b0O2.png)[Gothic Makeup](https://) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
+
+![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
+
+### ![](https://s12.gifyu.com/images/OUTFITS.png)
 
 ### **Uniforms.**
 
@@ -352,25 +376,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 - [Dragonhide Protector's Cloak Black](https://www.nexusmods.com/hogwartslegacy/mods/291?tab=description)   
 - [Dark House Tailcoat](https://www.nexusmods.com/hogwartslegacy/mods/605) 
 - [House Of Cobalt](https://www.nexusmods.com/hogwartslegacy/mods/627)
-
-- You can now change your in game height.
-- You can now give your chracter a beard.
-
----
-
-⛔ (**IMPORTANT)** choose only one of the makeup mods below.
-
-![](https://i.imgur.com/2Tr8P52.png)[School Makeup](https://www.nexusmods.com/hogwartslegacy/mods/162?tab=description)  by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
-
-![](https://i.imgur.com/IO9b0O2.png)[Gothic Makeup](https://) by [Aliize](https://www.nexusmods.com/hogwartslegacy/users/44367397?tab=about+me)
-
----
-
-![](https://i.imgur.com/7QblBwl.png)[Brighter Eyes](https://www.nexusmods.com/hogwartslegacy/mods/1058?tab=description) by [070ZeroSevenZero](https://https://www.nexusmods.com/hogwartslegacy/users/171626058)
-
-![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
-
-### ![](https://s12.gifyu.com/images/OUTFITS.png)
 
 ![](https://i.imgur.com/0Csldea.jpg)[Improved Dark Arts Deluxe Robes](https://www.nexusmods.com/hogwartslegacy/mods/153?tab=description) by [Arbek ](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me) (Replaces Dark arts Robes) Once installed with the collection a popup will appear all you have to do is choose your preset from the installer.
 
@@ -421,11 +426,12 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ⛔ ***NOTE** ALL WANDS ARE ENABLED BY DEFAULT IF YOU INSTALL ALL OPTIONAL MODS REMEMBER TO DISABLE ALL BUT ONE.
 
-- 13 Custom Wands.
+- 52 Custom Wands.
 - You can now unequip your wand anytime you want with a in game hotkey.
 - You can now edit your wand from an in game menu.
 - You can now duel a student anywhere anytime. 
 - You can now spawn any enemy on the spot to fight.
+- Adds occasional Troll spawns when you are wandering around Hogwarts.
 
 ---
 
@@ -435,7 +441,7 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 ![](https://s11.gifyu.com/images/BROOMS.png)
 
-![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868) 
+![](https://i.imgur.com/IHIOPqT.png)[Brooms](https://www.nexusmods.com/hogwartslegacy/users/115814868?tab=user+files) by [ZLANCO](https://www.nexusmods.com/hogwartslegacy/users/115814868)
 
 ---
 
@@ -446,7 +452,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 - [Nimbus 2001 - High Quality](https://www.nexusmods.com/hogwartslegacy/mods/1030?tab=description) (This mod Replaces the Family Antique Broom) 
 - [Nimbus 2000 Deluxe Edition (with bristles strands)](https://www.nexusmods.com/hogwartslegacy/mods/625?tab=description) (This mod Replaces the House Broom) 
-
 
 ## ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -1002,13 +1007,13 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 
 ![img](https://i.imgur.com/Nmwp2dq.png)
 
-These are the official System Requirements.
-![img](https://i.imgur.com/ZVqi4G8.png)
-![img](https://i.imgur.com/hN7kNvc.png)
-![img](https://i.imgur.com/Eh7Icxb.png)
-![img](https://i.imgur.com/zH6PyMz.png)
-
-- Collection Download Size 16.7GB
+- GPU> **(see below)**
+- 1080p> RTX 3060 or RX 6700 XT 
+- 1440p> RTX 3080 or RX 6800 XT  
+- RAM> 16GB
+- CPU> R5 3600 or i5 9600K
+- STORAGE> 16.8GB
+- STORAGE TYPE> SSD **(Recommended)** 
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -1027,11 +1032,9 @@ These are the official System Requirements.
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
-## [AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://) 
+![img](https://i.imgur.com/whUqX4P.png)[AS ALWAYS FEEDBACK IS GREATLY APPRECIATED](https://) 
 
 Please let us know if you have any issues with this collection before you vote I'm sure we can figure it out.
-
-![img](https://i.imgur.com/whUqX4P.png)
 
 If you enjoy this collection, **PLEASE** endorse the mod authors and Support me to help me build the best collection we can for this game.
 
@@ -1075,4 +1078,5 @@ If you would like to support me so i can afford a new broom and wand click the b
 - Hogwarts Legacy brand and name is the registered trademark of its respective owner.  
 
 ![img](https://i.imgur.com/gF9VG11.png)
+
 
