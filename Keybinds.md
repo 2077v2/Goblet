@@ -2,12 +2,13 @@
 
 After you activate the mods with the Blueprint Apparate Modloader (F8) these will be the default Keybinds.
 
-- HOME: Reshade. (OPTIONAL) 
+- HOME: Reshade. (OPTIONAL)
+- F1: Unequip Wand 
 - F2: Toggle Hud. (OPTIONAL)   
 - F3: Walking Mod. 
 - F4: Skip Time.
 - F5: Character Editor.
-- F6: Unequip Wand/Dual Dresser (Press F9 and change the keybind for Unequip Wand to F1)  
+- F6: Dual Dresser 
 - F7: Toggle Hood.
 - F8: Blueprint Apparate Modloader.  
 - F9: Unequip Wand/Toggle Hood Keybind Edit.  

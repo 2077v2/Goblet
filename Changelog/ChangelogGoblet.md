@@ -1,5 +1,3 @@
-[UNRELEASED UPDATE]
-
 [Rev 59](https://next.nexusmods.com/hogwartslegacy/collections/uehwil)
 
 NOTES
