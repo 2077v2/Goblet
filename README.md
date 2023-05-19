@@ -1,4 +1,4 @@
-Collection Rev 58
+Collection Rev 59
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -6,7 +6,7 @@ Collection Rev 58
 
 These are the best mods and are a must-have to immerse yourself into Hogwarts Legacy.
 
-This is a [120+](https://) Mod Collection it is the largest and most comprehensive mod list for **Hogwarts Legacy** if you can't be bothered reading this description then this collection isn't for you. It has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
+This is a [1](https://)[10+](https://) Mod Collection it is the largest and most comprehensive mod list for **Hogwarts Legacy** if you can't be bothered reading this description then this collection isn't for you. It has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
 
 Huge thank you to all the talented people that have put in the time and effort to make these mods possible. If you enjoy this collection, **PLEASE** endorse the mod authors.
 
@@ -36,6 +36,7 @@ Huge thank you to all the talented people that have put in the time and effort t
 
 - These are some of the best mods and are a must-have to immerse yourself into Hogwarts Legacy. 
 - Easy to follow step-by-step installation guide.
+- Only 4 GB in download size for 110+ mods.
 - Mods specifically created for the collection. 
 - Setup Video [HERE](https://youtu.be/_94nFCwEh4o)
 - Dedicated Youtube playlist [HERE](https://www.youtube.com/playlist?list=PLkl_09LX565sJKM4lidWzvFVpw1qVnP_m)
@@ -214,15 +215,12 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 - ***SkipTime*** 
 - ***yearlevel***
 - ***AnyTimeC***
-- 
-- ***DekEnemisExtremis***
-- ***DekUICore***   
-- ***DekTrollInTheDungeon***
-- ***DekVendorRefreshButton***
 
-17) To use some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. And down below under **"Mod settings and overview"**
+17) Press **F9** and change the keybind for Unequip Wand to **F1**).
 
-YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
+18) To use some mods you will need to use a keybind you will find the keybind list in your main game directory on our discord. and down below under **"Mod settings and overview".**
+
+# YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
 ---
 
@@ -403,7 +401,6 @@ If you see this> ⛔ then you need to read and follow the directions.
 
 - Reshade included.
 - Reshade Preset included.
-- Upscaled cutscenes.
 - Toggle hud.
 - Smaller UI.
 - Lots of ingame menus to configure your mods.
@@ -496,11 +493,12 @@ If you see this> ⛔ then you need to read and follow the directions.
 After you activate the mods with the Blueprint Apparate Modloader **(F8)** these will be the default Keybinds.
 
 - [HOME](https://): Reshade. (OPTIONAL) 
+- [F1](https://): Unequip Wand
 - [F2](https://): Toggle Hud. (OPTIONAL)   
 - [F3](https://): Walking Mod. 
 - [F4](https://): Skip Time.
 - [F5](https://): Character Editor.
-- [F6](https://): Unequip Wand/Dual Dresser (Press F9 and change the keybind for Unequip Wand to F1)  
+- [F6](https://): Dual Dresser   
 - [F7](https://): Toggle Hood.
 - [F8](https://): Blueprint Apparate Modloader.  
 - [F9](https://): Unequip Wand/Toggle Hood Keybind Edit.  
@@ -953,7 +951,7 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 - 1440p> RTX 3080 or RX 6800 XT  
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
-- STORAGE> 16.8GB
+- STORAGE> 4.3GB
 - STORAGE TYPE> SSD **(Recommended)** 
 
 ![img](https://i.imgur.com/atKF9CF.png)
@@ -990,6 +988,9 @@ Special thanks to these guys who helped make this collection what it is. And eve
 - [Arbek](https://www.nexusmods.com/hogwartslegacy/users/70441878?tab=about+me)
 - [Rosestorm](https://www.nexusmods.com/hogwartslegacy/users/3158793)  
 - [canliberk](https://www.nexusmods.com/users/5027009)  
+- gknova-2
+- Starfox
+- Jeridlee
 
 If you would like to support me so i can afford a new broom and wand click the button below. Can't donate? I understand a simple thankyou and endorsement is much appreciated.
 
