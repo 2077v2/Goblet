@@ -1,14 +1,14 @@
-Collection Rev 58            
+Collection Rev 58
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
-![](https://s11.gifyu.com/images/Border.jpg)Hey Prefects [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil) for **Hogwarts Legacy** have a good read through this description.
+![](https://s11.gifyu.com/images/Border.jpg)Hey Prefects [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil) for **Hogwarts Legacy**.
 
 These are the best mods and are a must-have to immerse yourself into Hogwarts Legacy.
 
-Huge thank you to all the talented people that have put in the time and effort to make these mods possible. If you enjoy this collection, **PLEASE** endorse the mod authors.
+This is a [120+](https://) Mod Collection it is the largest and most comprehensive mod list for **Hogwarts Legacy** if you can't be bothered reading this description then this collection isn't for you. It has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
 
-This is a 120+ Mod Collection it has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
+Huge thank you to all the talented people that have put in the time and effort to make these mods possible. If you enjoy this collection, **PLEASE** endorse the mod authors.
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
@@ -199,19 +199,13 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-16) To use **(Blueprint Apparate Mod Menu)** use **F8** on your keyboard to bring up the Menu here you enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
+16) To use **(Blueprint Apparate Mod Menu)**  at the main menu press **F8** on your keyboard to bring up the Menu type **"DekApparateUI"**and hit enter and then restart the game. Now press **F8** again here you can enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
 
-- ***SettingsMod***
 - ***StudentsCombat***
-- ***PlayAnyAnimation***
 - ***CharacterEditor*** 
 - ***DualDresser***
 - ***UnEquipWand*** 
-- ***DekChangeHouse*** 
-- ***DekEnemisExtremis***
-- ***DekUICore***
-- ***DekTrollInTheDungeon***
-- ***DekVendorRefreshButton***
+- ***DekChangeHouse***
 - ***DekOutfitStudioBETA*** 
 - ***FreeLookCamMod*** 
 - ***FreeFlyMod***
@@ -219,7 +213,12 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 - ***Apparition*** 
 - ***SkipTime*** 
 - ***yearlevel***
-- ***AnyTimeC***   
+- ***AnyTimeC***
+- 
+- ***DekEnemisExtremis***
+- ***DekUICore***   
+- ***DekTrollInTheDungeon***
+- ***DekVendorRefreshButton***
 
 17) To use some mods you will need to use a keybind you will find the keybind list in your main game directory and on our discord. And down below under **"Mod settings and overview"**
 
@@ -403,18 +402,13 @@ If you see this> ⛔ then you need to read and follow the directions.
 ![](https://s11.gifyu.com/images/GRAPHICS.png)
 
 - Reshade included.
-- Reshade Presets included.
+- Reshade Preset included.
 - Upscaled cutscenes.
 - Toggle hud.
 - Smaller UI.
 - Lots of ingame menus to configure your mods.
 - Smaller crosshair and mouse pointer.
-- Custom flying camera.
-
-> [ANIMATIONS MOD MENU](https://www.nexusmods.com/hogwartslegacy/mods/1149?tab=description) by [YouYouTheBoxx](https://www.nexusmods.com/hogwartslegacy/users/39042785)                                                                                                                                                                                     
-
-- Do you ever wished to play any animations like sitting while eating an apple ? Now you can.
-Plus you also have a position helper to let you move your character precisely while playing an animation.
+- Custom flying camera.                                                                                                                                                                               
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -432,6 +426,7 @@ Plus you also have a position helper to let you move your character precisely wh
 - Adds an animated HUD onto the screen that automatically displays the current day, date, and time of the game world, with coloring based on your chosen house!!
 - You can now refresh the stock at the vendor in hogsmeade.
 - You can select sell all at the vendor in hogsmeade. 
+- Casting revilio wont trigger a voiceline.
 
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
@@ -474,6 +469,8 @@ Plus you also have a position helper to let you move your character precisely wh
 
 ![](https://s11.gifyu.com/images/BROOMS.png)
 
+- You can use a in game UI to enhance your broom upgrades by giving you complete control over your broom and how it performs.
+- Adds a simple animated UI that displays your speed while flying.
 - 7 Custom brooms.
 - You can now fly your broom anywhere you want even in restricted zones.
 - Removes vertical controls from the right joystick and binds all navigation to the left joystick instead. (Or to the mouse if using M+K). ***(OPTIONALL)***
