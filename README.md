@@ -492,8 +492,6 @@ Plus you also have a position helper to let you move your character precisely wh
 
 - Hogwarts Mod Merger. Details can be found [HERE](https://www.nexusmods.com/hogwartslegacy/mods/178)
 
-- Hidden Dev Menu Enabler When at the main menu screen (Character Selection) Press **Tab** to reveal the hidden menu. 
-
 ![](https://s12.gifyu.com/images/Untitled65da8bb2d43e6821.png)
 
 ## ![](https://s12.gifyu.com/images/MOD-KEYBINDS.png)

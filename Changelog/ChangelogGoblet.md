@@ -6,7 +6,9 @@ NOTES
 -
 
 IMPORTANT READ
+
 We have switched some of the mods to a diffrent insrtallation method to make the collection easier to install this means you wont have to input some codes to activate some of the mods. This change will require you to go here > and delete the following.
+This will be a fairly big download around 12gb in size.
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
@@ -37,7 +39,7 @@ REMOVED
 -
 
 - [Display current Date Time](https://www.nexusmods.com/hogwartslegacy/mods/723)
-- [
+- [Hidden Dev Menu Enabler](https://www.nexusmods.com/hogwartslegacy/mods/972?tab=description)
 
 
 
