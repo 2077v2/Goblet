@@ -5,15 +5,40 @@
 NOTES
 -
 
+IMPORTANT READ
+We have switched some of the mods to a diffrent insrtallation method to make the collection easier to install this means you wont have to input some codes to activate some of the mods. This change will require you to go here > and delete the following.
+
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!!
 
 
 UPDATED
 -
 
+- [Enemis Extremis](https://www.nexusmods.com/hogwartslegacy/mods/1261?tab=description)
+- [Vendor Refresh Button](https://www.nexusmods.com/hogwartslegacy/mods/1275?tab=description)
+- [UICore](https://www.nexusmods.com/hogwartslegacy/mods/1260?tab=description)
+- [Hogwarts Mod Merger](https://www.nexusmods.com/hogwartslegacy/mods/178?tab=description)
+- [Tempus Imperium - Day Night Cycle Speed Modifications](https://www.nexusmods.com/hogwartslegacy/mods/420?tab=description)
+- [Companions Mod](https://www.nexusmods.com/hogwartslegacy/mods/706?tab=description)
+- [Character Editor](https://www.nexusmods.com/hogwartslegacy/mods/974?tab=description)
+- [
 
 NEW MODS ADDED. 
 -
+
+- [Broom Speedometer](https://www.nexusmods.com/hogwartslegacy/mods/1344)
+- [Apparate UI](https://www.nexusmods.com/hogwartslegacy/mods/1335)
+- [Animated Game Time HUD](https://www.nexusmods.com/hogwartslegacy/mods/1179?tab=description)
+- [
+
+
+
+REMOVED
+-
+
+- [Display current Date Time](https://www.nexusmods.com/hogwartslegacy/mods/723)
+- [
+
 
 
 BUGS.
