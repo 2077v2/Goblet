@@ -1,4 +1,4 @@
-### Collection Rev 58 Ver 4.82            
+Collection Rev 58            
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
@@ -8,7 +8,7 @@ These are the best mods and are a must-have to immerse yourself into Hogwarts Le
 
 Huge thank you to all the talented people that have put in the time and effort to make these mods possible. If you enjoy this collection, **PLEASE** endorse the mod authors.
 
-This is a 110+ Mod Collection it has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
+This is a 120+ Mod Collection it has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
@@ -217,7 +217,6 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 - ***FreeFlyMod***
 - ***WalkingMod***
 - ***Apparition*** 
-- ***DisplayDateTime***
 - ***SkipTime*** 
 - ***yearlevel***
 - ***AnyTimeC***   
@@ -430,7 +429,7 @@ Plus you also have a position helper to let you move your character precisely wh
 
 ![](https://s11.gifyu.com/images/QUALITY-OF-LIFE.png)
 
-- Adds a clock under the map to display date and time with notifications after a wait or loading.
+- Adds an animated HUD onto the screen that automatically displays the current day, date, and time of the game world, with coloring based on your chosen house!!
 - You can now refresh the stock at the vendor in hogsmeade.
 - You can select sell all at the vendor in hogsmeade. 
 
@@ -450,7 +449,7 @@ Plus you also have a position helper to let you move your character precisely wh
 - Student's curfew in the game is now 10 pm.
 - You can now toggle to walk.
 
-### [ANYTIMECOMPANION](https://)**** by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)
+### [ANYTIMECOMPANION](https://) by [IMrPez](https://www.nexusmods.com/hogwartslegacy/users/65483611)
 
 - AnyTimeCompanion is a simple mod that allows you to spawn some of your classmates as companions using an In-game menu. Now you can press ***Alt+O*** to open the menu and select your companion. You can also dismiss your companion from this menu. Make sure you exit the menu through the exit button, NOT ***esc***, this will make the cursor go away, to bring it back just hit esc again
 
@@ -1025,4 +1024,3 @@ If you would like to support me so i can afford a new broom and wand click the b
 - Hogwarts Legacy brand and name is the registered trademark of its respective owner.  
 
 ![img](https://i.imgur.com/gF9VG11.png)
-
