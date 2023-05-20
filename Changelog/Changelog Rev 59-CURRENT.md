@@ -1,4 +1,7 @@
-[Rev 59](https://next.nexusmods.com/hogwartslegacy/collections/uehwil)
+(https://s11.gifyu.com/images/THE-GOBLET.png)
+[CURRENT UPDATE]
+
+[HEY PREFECTS Rev 59 is here](https://)
 
 NOTES
 -
@@ -13,9 +16,6 @@ We have switched some of the mods to a diffrent installation method to make the 
 - DekUICore   
 - DekTrollInTheDungeon
 - DekVendorRefreshButton
-
-
-
 
 UPDATED
 -
@@ -47,7 +47,7 @@ REMOVED
 BUGS.
 -
 
-[N/A](https://next.nexusmods.com/hogwartslegacy/collections/uehwil)
+ [See bug channel on discord](https://discord.gg/xZNztPjA2u)
 
 
 MODS NOT WORKING AT THE MOMENT. 
