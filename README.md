@@ -1,16 +1,16 @@
 IF THE DESCRIPTION DOESNT SHOW UP CLICK [HERE](https://github.com/MRGHIA88V2/Goblet)
 
-Collection Rev 59
+### Collection Rev 59
 
 ![img](https://i.imgur.com/fumvVUj.png)
 
 ![](https://s11.gifyu.com/images/Border.jpg)Hey Prefects [v2](https://www.nexusmods.com/users/123334373) here this is [THE GOBLET](https://next.nexusmods.com/hogwartslegacy/collections/uehwil) for **Hogwarts Legacy**.
 
-These are the best mods and are a must-have to immerse yourself into Hogwarts Legacy.
+These are the best mods from the best authors and are a must-have to immerse yourself into **Hogwarts Legacy**.
 
 This is a [1](https://)[10+](https://) Mod Collection it is the largest and most comprehensive mod list for **Hogwarts Legacy** if you can't be bothered reading this description then this collection isn't for you. It has been put together in a way that you can customize it to your liking you can toggle off/on what mods you don't want in **Vortex** if there are some you don't like.
 
-Huge thank you to all the talented people that have put in the time and effort to make these mods possible. If you enjoy this collection, **PLEASE** endorse the mod authors.
+Huge thank you to all the talented people that have put in the time and effort to create these amazing mods. If you enjoy this collection, **PLEASE** show your support and endorse the mod authors and the collection.
 
 ![img](https://i.imgur.com/gF9VG11.png)
 
@@ -38,11 +38,11 @@ Huge thank you to all the talented people that have put in the time and effort t
 
 - These are some of the best mods and are a must-have to immerse yourself into Hogwarts Legacy. 
 - Easy to follow step-by-step installation guide.
-- Only 4 GB in download size for 110+ mods.
+- Only 4 GB in download size for [110+](https://) mods.
 - Mods specifically created for the collection. 
 - Setup Video [HERE](https://youtu.be/_94nFCwEh4o)
 - Dedicated Youtube playlist [HERE](https://www.youtube.com/playlist?list=PLkl_09LX565sJKM4lidWzvFVpw1qVnP_m)
-- Discord Server with a growing community. 
+- [Discord Server](https://discord.gg/xZNztPjA2u) with a growing community. 
 - Continuous Support in Comments and on Discord.    
 
 ![img](https://i.imgur.com/gF9VG11.png)
@@ -104,8 +104,8 @@ This collection is extensively tested with every new version that is released. I
 
 ## ![img](https://i.imgur.com/22NtFLt.png)[Install time](https://)
 
-**Premium Users**: Takes 1 hour + Semi automatic.
-**Free Users:** Takes 1.5 to 2 hours + Semi automatic. You will have to click on download for each mod one by one.
+**Premium Users**: Takes 15 min + Semi automatic.
+**Free Users:** Takes 30 min + Semi automatic. You will have to click on download for each mod one by one.
 
 ## [Hogwarts Legacy ](https://)
 
@@ -220,7 +220,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 17) Press **F9** and change the keybind for Unequip Wand to **F1**).
 
-18) To use some mods you will need to use a keybind you will find the keybind list in your main game directory on our discord. and down below under **"Mod settings and overview".**
+18) To use some mods you will need to use a keybind you will find the key bind list in your main game directory and on our discord. Or here [keybinds](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md) and down below under **"Mod settings and overview".**
 
 # YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
@@ -248,7 +248,7 @@ Epic>  Drive Letter\EpicLibrary\Hogwarts Legacy.exe
 
 I have added these resahdes below.
 
-- Goblet Reshadeby [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
+- Goblet Reshade by [v2](https://www.nexusmods.com/hogwartslegacy/users/123334373)
 
 ### **Reshade controls**
 
