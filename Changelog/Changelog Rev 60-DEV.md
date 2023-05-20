@@ -1,4 +1,4 @@
-(https://s11.gifyu.com/images/THE-GOBLET.png)
+![img](https://s11.gifyu.com/images/THE-GOBLET.png)
 [UNRELEASED UPDATE]
 
 [HEY PREFECTS Rev 60 is coming soon](https://)

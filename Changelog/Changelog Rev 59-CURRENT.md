@@ -1,4 +1,4 @@
-(https://s11.gifyu.com/images/THE-GOBLET.png)
+![img](https://s11.gifyu.com/images/THE-GOBLET.png)
 [CURRENT UPDATE]
 
 [HEY PREFECTS Rev 59 is here](https://)
