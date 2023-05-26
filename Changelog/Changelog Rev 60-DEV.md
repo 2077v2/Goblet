@@ -1,10 +1,12 @@
 ![img](https://s11.gifyu.com/images/THE-GOBLET.png)
-[UNRELEASED UPDATE]
 
-[HEY PREFECTS Rev 60 is coming soon](https://)
+
+[HEY PREFECTS Rev 60 is out now](https://)
 
 NOTES
 -
+
+- FIXED chracter and NPCs not rendering correctly.
 
 REMEMBER TO REMOVE OLD MODS WHEN ASKED IN VORTEX!!! 
 
@@ -20,6 +22,9 @@ NEW MODS ADDED.
 
 REMOVED
 -
+
+- [Belletrix Curly Hair](https://www.nexusmods.com/hogwartslegacy/mods/1090)
+
 
 [N/A](https://)
 
