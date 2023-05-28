@@ -1409,6 +1409,8 @@ Train Times increased to every day and three more times a day.
 
 ![img](https://i.imgur.com/kbr5Wce.png)
 
+![](https://s12.gifyu.com/images/My-collectionsc7c42af9af0d49d6.png)
+
 **⛔** You can have all 3 packs installed but only have  1 enabled at a time.
 
 ***
@@ -1521,7 +1523,7 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 
 *   CPU> R5 3600 or i5 9600K
 
-*   STORAGE> 4.3GB
+*   STORAGE> 4.2GB
 
 *   STORAGE TYPE> SSD
 
