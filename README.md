@@ -43,6 +43,8 @@ Huge thank you to all the talented people that have put in the time and effort t
 - [Discord Server](https://discord.gg/xZNztPjA2u)with a growing community.
 - Continuous Support in Comments and on Discord.
 
+![]([img]https://i.imgur.com/WCI3FXw.png[/img])![](]https://i.imgur.com/r9uMVie.png)[![](https://i.imgur.com/r9uMVie.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [discord](https://discord.gg/xZNztPjA2u) server so we can help users like you.&#x20;
+
 ![img](https://i.imgur.com/gF9VG11.png)
 
 ![](https://i.imgur.com/tC2r0hV.png)
@@ -63,10 +65,6 @@ Huge thank you to all the talented people that have put in the time and effort t
 - In-game Appearance Menu
 - Save Game Editor.
 - Support for other Modular Expansion Packs.
-- [Discord Server](https://discord.gg/xZNztPjA2u)with a growing community.
-- Continuous Support on Comments and Discord.
-
-![]([img]https://i.imgur.com/WCI3FXw.png[/img])![](]https://i.imgur.com/r9uMVie.png)[![](https://i.imgur.com/r9uMVie.png)](https://discord.gg/xZNztPjA2u)Collections may be frustrating. For this reason, we have an active [discord](https://discord.gg/xZNztPjA2u) server so we can help users like you.&#x20;
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -88,11 +86,11 @@ This collection is extensively tested with every new version that is released. I
 
 ## ![img](https://i.imgur.com/r5ZtuJe.png)⛔[WARNINGS](https://)⛔
 
-- If you see this> ⛔ then you need to**READ**and follow the directions.
+- If you see this> ⛔ then you need to read and follow the directions.
 
 ## [READ](https://)
 
-- **⛔ DO NOT**use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
+- ⛔\*\*DO NOT \*\*use a pirated game. It is against Nexus rules and is illegal and i will not provide any support.
 
 ## [Updating Collection](https://)[   ](https://)
 
@@ -118,7 +116,7 @@ https://www.youtube.com/watch?v=\_94nFCwEh4o
 ## [Hogwarts Legacy ](https://)
 
 1. Start with a fresh install of**Hogwarts Legacy**
-2. You need to create a***~mods***folder if you don't already have one go to the following folder and create a folder named***~mods***. when done should look as follows.
+2. You need to create a\*\*\*~mods***folder if you don't already have one go to the following folder and create a folder named***~mods\*\*\*. when done should look as follows.
 
 ```
 Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods
@@ -138,14 +136,14 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\\~mods
 
 ## [Vortex & Hogwarts Legacy ](https://)
 
-1. Open Vortex and click on**"Select a game to manage"**
+1. Open Vortex and click on\*\*"Select a game to manage"\*\*
 
 ![](https://s12.gifyu.com/images/Select-a-game-to-managed.jpg)
 
-1. On the next screen scroll down to the**"Hogwarts Legacy"**icon and click on**"Manage"**
-2. On the popup that appears click on**"Download"**on the bottom right Vortex will restart.
-3. Once Vortex has restarted it may say**"Game not discovered"**if it does click**"Continue"**at the bottom right of the popup.
-4. A window will now pop up where you can choose the folder where**"Hogwarts Legacy"**is installed.
+1. On the next screen scroll down to the\*\*"Hogwarts Legacy"**icon and click on**"Manage"\*\*
+2. On the popup that appears click on\*\*"Download"\*\*on the bottom right Vortex will restart.
+3. Once Vortex has restarted it may say\*\*"Game not discovered"**if it does click**"Continue"\*\*at the bottom right of the popup.
+4. A window will now pop up where you can choose the folder where\*\*"Hogwarts Legacy"\*\*is installed.
 
 ```
 Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy
@@ -155,7 +153,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
 
 9 )On your main Vortex window, it will now show an icon for **"Hogwarts Legacy"** showing that it is a managed game in Vortex.
 
-1. Go to the settings and on the mods tab check**"automatically use suggested path for staging folder"**then check "**suggest and "apply"**
+1. Go to the settings and on the mods tab check\*\*"automatically use suggested path for staging folder"\*\*then check "**suggest and "apply"**
 
 ![](https://i.imgur.com/acZuWJI.png)11) On the same window select **"hard link deployment"**  and check **"apply".**
 
@@ -167,7 +165,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
 
 ![](https://s12.gifyu.com/images/Screenshot-2023-04-29-142858.png)
 
-1. Click**"Add to Vortex"(choose your newly created profile)**.
+1. Click\*\*"Add to Vortex"(choose your newly created profile)\*\*.
 
 ![](https://s12.gifyu.com/images/Untitled1.png)
 
@@ -181,10 +179,10 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
 
 1. These may popup in Vortex as you are downloading the collection.
 
-- When you see a pop-up titled**"Mod contains protected paths"**select**"yes install to staging anyway"**
-- When you see a pop-up titled**"you have reached the fallback installer"**select**"yes install to staging anyway"**
-- When you see a pop-up titled**"not an archive"**select**"create mod"**.
-- Throughout the install process you will have some**"installer"**popups so that you can customize some mods to your liking.
+- When you see a pop-up titled\*\*"Mod contains protected paths"**select**"yes install to staging anyway"\*\*
+- When you see a pop-up titled\*\*"you have reached the fallback installer"**select**"yes install to staging anyway"\*\*
+- When you see a pop-up titled\*\*"not an archive"**select**"create mod"\*\*.
+- Throughout the install process you will have some\*\*"installer"\*\*popups so that you can customize some mods to your liking.
 
 ***
 
@@ -192,7 +190,7 @@ Epic users>  Drive Letter\EpicLibrary\Hogwarts Legacy
 
 \***Note** If you dont want the optional mods skip this step.
 
-1. Select**"show"**optional mods then select**"no thanks"**
+1. Select\*\*"show"**optional mods then select**"no thanks"\*\*
 
 ![](https://s11.gifyu.com/images/Optinal.jpg)
 
@@ -202,7 +200,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 
 ## [In-game settings](https://)
 
-1. To use**(Blueprint Apparate Mod Menu)**at the main menu press**F8**on your keyboard to bring up the Menu type \*\*"DekApparateUI"\*\*and hit enter and then restart the game. Now press**F8**again here you can enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
+1. To use\*\*(Blueprint Apparate Mod Menu)**at the main menu press**F8**on your keyboard to bring up the Menu type \*\*"DekApparateUI"\*\*and hit enter and then restart the game. Now press**F8\*\*again here you can enter the commands to enable some of the mods. Copy and paste each of the following codes into the menu and press enter to activate each one.
 
 - ***StudentsCombat***
 - ***CharacterEditor***
@@ -219,7 +217,7 @@ Now you can choose which ***(OPTIONAL)***  mods you would like to install these 
 - ***AnyTimeC***
 
 1. Press**F9**and change the keybind for Unequip Wand to**F1**).
-2. To use some mods you will need to use a keybind you will find the key bind list in your main game directory and on our discord. Or here[keybinds](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)and down below under**"Mod settings and overview".**
+2. To use some mods you will need to use a keybind you will find the key bind list in your main game directory and on our discord. Or here[keybinds](https://github.com/MRGHIA88V2/Goblet/blob/main/Keybinds.md)and down below under\*\*"Mod settings and overview".\*\*
 
 # YOU ARE READY TO                             ![](https://i.imgur.com/7pjddxF.png)
 
@@ -291,9 +289,11 @@ Simply delete **ShaderToggler.ini**
 
 ## [Where is the game located](https://)❓
 
-- **GOG users >***Drive Letter\GOGLibrary\Games\Hogwarts Legacy*
-- **Steam users>***Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy*
-- **Epic> users***Drive Letter\EpicLibrary\Hogwarts Legacy*
+```
+GOG users> Drive Letter\GOGLibrary\Games\Hogwarts Legacy
+Steam users> Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy
+Epic users> Drive Letter\EpicLibrary\Hogwarts Legacy
+```
 
 ## [I've installed the collection but my game crashes when I create a character](https://)❓
 
@@ -309,14 +309,16 @@ Click [HERE](https://youtu.be/RT7w9LDec1I)  to watch our tutorial video.
 
 1. Go to the following destination after you update the collection.
 
-- **Steam users>***Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods*
-- **GOG users>***Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Content\Paks~mods*
-- **Epic users>***Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\\~mods*
+```
+Steam users>Drive Letter\SteamLibrary\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks/~mods
+GOG users>Drive Letter\GOGLibrary\Games\Hogwarts Legacy\Phoenix\Content\Paks~mods
+Epic users>Drive Letter\EpicLibrary\Hogwarts Legacy\Phoenix\Content\~mods
+```
 
 1. In the mods folder, you will see all of the installed mods.
 2. Once in your mod folder, we want to open up Vortex at the top on the mods tab you will see "purge mods" select this.
 3. Now, look back in the mods folder again all of the mods should have been removed if there are any left behind select them and delete them.
-4. Go back to Vortex and at the top of the mods tab you will see**"Deploy"**select this and now all of the up-to-date mods should be placed back in your mods folder.
+4. Go back to Vortex and at the top of the mods tab you will see "Deploy" select this and now all of the up-to-date mods should be placed back in your mods folder.
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
@@ -928,7 +930,7 @@ This Pack is if you want all mod items that replace the standard wands as [THE G
 - RAM> 16GB
 - CPU> R5 3600 or i5 9600K
 - STORAGE> 4.2GB
-- STORAGE TYPE> SSD**(Recommended)**
+- STORAGE TYPE> SSD\*\*(Recommended)\*\*
 
 ![img](https://i.imgur.com/atKF9CF.png)
 
